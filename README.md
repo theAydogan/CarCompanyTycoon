@@ -1,2 +1,0 @@
-# CarCompanyTycoon
-Car company game
